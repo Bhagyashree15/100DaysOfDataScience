@@ -13,6 +13,6 @@ Day 4: Advanced Python <br />
 Day 5: Web Scraping with Python and Working with images with Python <br />
 Day 6: Working with PDFs and spreadsheets until Advanced Python Objects and Data Structure <br />
 Day 7:Introduction to GUI and Revise all the topics and do some problems <br />
-[Completion Certificate] (https://github.com/Bhagyashree15/100DaysOfDataScience/blob/main/WEEK%201/Completion%20certificate%20Python.pdf) <br />
+[Completion Certificate]  (https://github.com/Bhagyashree15/100DaysOfDataScience/blob/main/WEEK%201/Completion%20certificate%20Python.pdf) <br />
 
 
