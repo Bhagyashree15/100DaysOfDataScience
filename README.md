@@ -16,5 +16,5 @@ Day 7:Introduction to GUI and Revise all the topics and do some problems <br />
 [Completion Certificate]  (https://github.com/Bhagyashree15/100DaysOfDataScience/blob/main/WEEK%201/Completion%20certificate%20Python.pdf) <br />
 ## WEEK 1(Nov 30/2020 - Dec 6/2020)
 Here I have chosen the Machine Learning A-Z: Hands on Python and R on Udemy <br />
-https://www.udemy.com/course/machinelearning/
+https://www.udemy.com/course/machinelearning/ <br />
 Day 8: Introduction to ML and Data Preprocessing <br />
