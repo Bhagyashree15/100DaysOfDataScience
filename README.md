@@ -19,3 +19,4 @@ Here I have chosen the Machine Learning A-Z: Hands on Python and R on Udemy <br 
 https://www.udemy.com/course/machinelearning/ <br />
 Day 8: Introduction to ML and Data Preprocessing <br />
 Day 9: Simple Linear Regression <br />
+Day 10: Multiple Linear Regression <br />
