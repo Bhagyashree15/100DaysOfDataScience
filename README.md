@@ -20,3 +20,6 @@ https://www.udemy.com/course/machinelearning/ <br />
 Day 8: Introduction to ML and Data Preprocessing <br />
 Day 9: Simple Linear Regression <br />
 Day 10: Multiple Linear Regression <br />
+Day 11: Polynomial Regression <br />
+Day 12: Support vector Regression and Decision Tress regression <br />
+
