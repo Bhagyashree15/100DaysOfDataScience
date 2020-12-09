@@ -24,4 +24,5 @@ Day 11: Polynomial Regression <br />
 Day 12: Support vector Regression and Decision Tress regression <br />
 Day 13: Finals at my university <br />
 Day 14 :Randomn Forest Regression <br />
+Day 15 :Logistic Regression <br />
 
