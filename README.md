@@ -27,3 +27,4 @@ Day 13: Finals at my university <br />
 Day 14 :Randomn Forest Regression <br />
 Day 15 :Logistic Regression <br />
 Day 16 :KNN Algorithm <br />
+Day 17: SVM & Kernel SVM <br />
