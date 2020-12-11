@@ -14,7 +14,7 @@ Day 5: Web Scraping with Python and Working with images with Python <br />
 Day 6: Working with PDFs and spreadsheets until Advanced Python Objects and Data Structure <br />
 Day 7:Introduction to GUI and Revise all the topics and do some problems <br />
 [Completion Certificate]  (https://github.com/Bhagyashree15/100DaysOfDataScience/blob/main/WEEK%201/Completion%20certificate%20Python.pdf) <br />
-## WEEK 1(Nov 30/2020 - Dec 6/2020)
+## WEEK 2(Nov 30/2020 - Dec 6/2020)
 Here I have chosen the Machine Learning A-Z: Hands on Python and R on Udemy <br />
 https://www.udemy.com/course/machinelearning/ <br />
 Day 8: Introduction to ML and Data Preprocessing <br />
@@ -23,7 +23,7 @@ Day 10: Multiple Linear Regression <br />
 Day 11: Polynomial Regression <br />
 Day 12: Support vector Regression and Decision Tress regression <br />
 Day 13: Finals at my university <br />
-## WEEK 1(Dec 7/2020 - Dec 13/2020)
+## WEEK 3(Dec 7/2020 - Dec 13/2020)
 Day 14 :Randomn Forest Regression <br />
 Day 15 :Logistic Regression <br />
 Day 16 :KNN Algorithm <br />
