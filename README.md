@@ -28,3 +28,4 @@ Day 14 :Randomn Forest Regression <br />
 Day 15 :Logistic Regression <br />
 Day 16 :KNN Algorithm <br />
 Day 17: SVM & Kernel SVM <br />
+Day 18: Naive Bayes <br />
