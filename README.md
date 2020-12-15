@@ -29,3 +29,7 @@ Day 15 :Logistic Regression <br />
 Day 16 :KNN Algorithm <br />
 Day 17: SVM & Kernel SVM <br />
 Day 18: Naive Bayes <br />
+Day 19: Decision Tree and Random Forest Classification <br />
+Day 20: Revision<br />
+## WEEK 4(Dec 14/2020 - Dec 20/2020)
+Day 21: K Means Clustering <br />
