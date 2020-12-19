@@ -33,3 +33,6 @@ Day 19: Decision Tree and Random Forest Classification <br />
 Day 20: Revision<br />
 ## WEEK 4(Dec 14/2020 - Dec 20/2020)
 Day 21: K Means Clustering <br />
+Day 22: Hierarchical Clustering <br />
+Day 23: APRIORI Intution <br />
+Day 24: APRIORI and ECLAT <br />
