@@ -36,4 +36,8 @@ Day 21: K Means Clustering <br />
 Day 22: Hierarchical Clustering <br />
 Day 23: Hierarchical Clustering continued <br />
 Day 24: APRIORI Intution <br />
-Day 25: APRIORI and ECLAT <br />
+Day 25: APRIORI  <br />
+Day 26: ECLAT <br />
+Day 27: Revision <br />
+## WEEK 5(Dec 21/2020 - Dec 27/2020)
+Day 28 : Intro to Reinforcement Learning & UCB <br />
