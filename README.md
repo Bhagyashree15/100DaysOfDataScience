@@ -41,3 +41,11 @@ Day 26: ECLAT <br />
 Day 27: Revision <br />
 ## WEEK 5(Dec 21/2020 - Dec 27/2020)
 Day 28 : Intro to Reinforcement Learning & UCB <br />
+## Christmas and New Year Break
+## WEEK 6(Jan 5/2021 - Jan 12/2021)
+Day 34: Natural Language Processing Intuition <br />
+Day 35: Natural Language Proceesing Hands on Project<br />
+Day 36: Artificial Neural Networks Intuition <br />
+Day 38: Artificial Neural Networks HAnds on Project <br />
+Day 39: Convlutional Neural Network <br />
+Day 40: Principal Component Analysis <br />
